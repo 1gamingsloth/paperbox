@@ -1,0 +1,5 @@
+## ignore .pdf and other extensions in this repo
+*.aux
+*.log
+*.pdf
+*.toc
