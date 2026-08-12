@@ -43,5 +43,5 @@ Add the .sty file to your project and use something like:
 This theme is licensed under MIT. Please read [MIT License](./LICENSE).
 
 ## Acknowledgements
-Paperbox is inspired by
-[Gruvbox](https://github.com/morhetz/gruvbox)
+Paperbox is inspired and based on
+[Gruvbox](https://github.com/morhetz/gruvbox). Many of the colours originate from Gruvbox.
