@@ -1,5 +1,6 @@
-\ProvidesPackage{Paperbox}[2026-08-12 Simple Gruvbox Light-inspired theme]
+\ProvidesPackage{Paperbox}[2026/08/12 Simple Gruvbox Light-inspired theme]
 
+\RequirePackage{beamer}
 \RequirePackage{xcolor}
 \RequirePackage{listings}
 
@@ -87,7 +88,7 @@
     \usebeamerfont{author in head/foot}
     \insertshortauthor
     \hfill
-    \insertframenumber{} / \inserttotalframenumber
+    [\insertframenumber{} / \inserttotalframenumber]
     \hspace{1em}
     \vspace{0.5em}
   }
